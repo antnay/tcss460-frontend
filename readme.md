@@ -1,13 +1,13 @@
-lpha Sprint
+# Alpha Sprint
     11/5 7PM - 8PM
 
-Contribution and Members
+## Contribution and Members
     Anthony Naydyuk
     Regan Lai
     Boyd Bouck
     Hussein Sheikh  
 
-Meeting
+## Meeting
     Discord
 
-Comments
+## Comments
